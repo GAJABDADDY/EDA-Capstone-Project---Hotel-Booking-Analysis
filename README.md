@@ -7,7 +7,7 @@ The main objective of this project is to analyze and identify factors contributi
 
 ## Technologies Used
 - Python for data cleaning, transformation, and analysis
-- Jupyter Notebook for code execution and documentation
+- Google Collab for code execution and documentation
 - GitHub for version control and collaboration
 
 ## Dataset Description
@@ -30,7 +30,7 @@ Based on the insights gained, potential solutions to reduce cancellation rates i
 
 ## How to Use
 1. Clone this repository to your local machine.
-2. Open the Jupyter Notebook file using Jupyter Notebook or any compatible environment.
+2. Open the Jupyter Notebook file using Google collab or any compatible environment.
 3. Execute the code cells to reproduce the analysis and visualizations.
 4. Review the findings and recommendations presented in the notebook.
 
